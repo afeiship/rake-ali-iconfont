@@ -1,22 +1,20 @@
 # rake-ali-iconfont
 > Task for ali iconfont.
 
-## gem dependencies:
-
-## install:
+## installation
 ```bash
 # gem:
 gem install fileutils
 npm i -D afeiship/rake-ali-iconfont --registry=https://registry.npm.taobao.org
 ```
 
-## usage:
+## usage
 ~~~
 $ rake -T
 rake iconfont:sync_css[url,filename]  # Sync styles from css fonts link
 ~~~
 
-## example:
+## example
 ```bash
 rake iconfont:sync_css[//at.alicdn.com/t/font_1063008_re2olqkinh.css]
 ```
