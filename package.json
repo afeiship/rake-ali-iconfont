@@ -1,5 +1,5 @@
 {
-  "name": "rake-ali-iconfont",
+  "name": "@feizheng/rake-ali-iconfont",
   "version": "1.0.0",
   "description": "Task for ali iconfont.",
   "main": "index.rake",
@@ -7,11 +7,17 @@
     "type": "git",
     "url": "git+https://github.com/afeiship/rake-ali-iconfont.git"
   },
-  "keywords": ["rake", "task"],
+  "keywords": [
+    "rake",
+    "task"
+  ],
   "author": "afei",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/afeiship/rake-ali-iconfont/issues"
   },
-  "homepage": "https://github.com/afeiship/rake-ali-iconfont#readme"
+  "homepage": "https://github.com/afeiship/rake-ali-iconfont#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
