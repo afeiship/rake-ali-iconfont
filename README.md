@@ -5,7 +5,7 @@
 ```bash
 # gem:
 gem install fileutils
-npm i -D @feizheng/rake-ali-iconfont --registry=https://registry.npm.taobao.org
+npm i -D @jswork/rake-ali-iconfont
 ```
 
 ## usage
